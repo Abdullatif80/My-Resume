@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<head>
+<h1>ATinVersace</h1>
+<img src="./Picture of me.png" width="150">
+<title>My Resume</title>
+</head>
+    <body>
+     <h1>Summary</h1>   
+        I am a hardworking individual who is willing to go the extra mile to get what he wants and i have experience in sales.
+    </body>
+     <h1>Education</h1>
+        <ul>
+            <li>I have graduated high school in the year 2021 from Central Islamic School attaining 2 distinctions.</li>
+        </ul>
+     <h1>Work Experience</h1>
+        <ul>
+            <li><h3>Salesperson-Family Shoe Centre</h3></li>
+         August 2023 - April 2024
+        </ul>
+            <ol>
+           <li>Bringing in new clientele.</li>
+           <li>Keeping our old clientele happy and satisfied with our products.
+           <li>Recieving containers of imported stock and making sure it all added up.</li>
+           <li>I was second to the head of marketing.</li>
+            </ol>
+        <h5>P.S: In the brief period i was working their, their sales increased by a percentage of 6%.</h5>
+        </ul>
+     <h1>Skills</h1>
+     <ol>
+        <li>I am a people's person</li>
+        <li>I studied accounting in high school so i have the skills necessary to do books as well</li>
+        <li>I am multilingual</li>
+        <ol type="a"> 
+        <li>English</li>
+          <li>Afrikaans</li>
+          <li>IsiZulu</li>
+          <li>Arabic</li>
+          <li>Somali</li>
+        </ol>
+     </ol>
+     <h1>Achievements</h1>
+     The only achievement worth mentioning that is relevant to this resume is that in the 6 months i was working at FSC, i won salesman of the month 3 times.
+     <br/>
+     <hr/>
+     <p>Below is a list of my hobbies and ways in which you could contact me. Be sure to check me out.</p>
+     <a href="./Hobbies">My Hobbies</a>
+     <br/>
+     <a href="./Contact me">Contact me</a>
+     
+     <p><footer>
+      © Abdulatif Ali, 2023
+     </footer>
+     </p>
+</head>
+</html>
